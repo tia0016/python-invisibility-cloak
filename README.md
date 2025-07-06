@@ -48,10 +48,3 @@ Just change the HSV range in the script — for example, to make pink or green o
 - `invisibilityred.py`: Main Python script that runs the invisibility cloak effect.
 
 ---
-
-## 🌟 Credits
-
-Made with using Python, NumPy & OpenCV  
-Project by [Tia Panwar]([https://www.linkedin.com/in/tia0016](https://www.linkedin.com/in/tia-panwar-5a6aa0293/))
-
----
